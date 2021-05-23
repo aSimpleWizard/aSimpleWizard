@@ -1,4 +1,4 @@
-<h2>Hello, everyone 🧙‍♂️.<br>
+<h2>Hello, everyone.
 
 My name is Jaime Hernández, am a software development student in Las Americas' Technology Institute (Dominican republic).
 
