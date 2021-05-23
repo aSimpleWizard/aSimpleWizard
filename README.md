@@ -1,6 +1,6 @@
 Hello, everyone.
 
-<h1>My name is Jaime Hernández, am a software development student in Las Americas' Technology Institute (Dominican republic).
+<font color="green">My name is Jaime Hernández, am a software development student in Las Americas' Technology Institute (Dominican republic).
 
 I know the basics (and some things not so basic) of C++, C#, Php, Python, and others. Still, I have much to learn.
 
