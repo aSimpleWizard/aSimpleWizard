@@ -6,5 +6,5 @@ I know the basics (and some things not so basic) of C++, C#, Php, Python, and ot
 
 My objective, for now, is to try a bit of everything before choosing a branch in the Software Development world.
 
-  
+  ![fogata](ds.gif)
 
