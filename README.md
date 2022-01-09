@@ -1,10 +1,10 @@
-<h2>Hello, everyone.
+Hello, everyone 🌊
 
-My name is Jaime Hernández, am a software development student in Las Americas' Technology Institute (Dominican republic).
+My name is **Jaime Hernández**, am a software development student 👨🏽‍💻 in *Las Americas Institute of Technology* (Dominican republic).
 
-I know the basics of C++, C#, Php, Python, and others. Still, I have much to learn.
+I know the basics of **C++, C#, JavaScript, Php, Python,** and others. Still, I have much to learn.
 
-My objective, for now, is to try a bit of everything before choosing a branch in the Software Development world.
+Currenly am working as frontend developer with **React** ⚛️ My objetive for now is learning all about React and after introduce me to **MERN** stack 🚀 
 
   ![fogata](ds.gif)
 
