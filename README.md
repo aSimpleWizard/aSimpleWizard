@@ -13,13 +13,12 @@ Currenly am working as frontend developer with **React** ⚛️ My objetive for 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-hndz&layout=compact&theme=github_dark"/>
 </div>
  
-<div style="display: inline_block">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaime-hndz&hide=contribs,prs&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-hndz&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ <div align="center">
+  <a href="https://github.com/jaime-hndz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-frontend&theme=github_dark"/>
+  <img height="180em" src="github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-backend&theme=github_dark"/>
 </div>
-
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-frontend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-backend&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
