@@ -6,7 +6,7 @@ My name is **Jaime Hernández**, am a software development student 👨🏽‍�
 I know the basics of **C++, C#, JavaScript, Php, Python,** and others. Still, I have much to learn.
 
 Currenly am working as frontend developer with **React** ⚛️ My objetive for now is learning all about React and after introduce me to **MERN** stack 🚀 
-<div style="display: inline_block">
+<div style="display: inline_block"> <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaime-hndz&hide=contribs,prs&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-hndz&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
