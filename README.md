@@ -8,6 +8,6 @@ Currenly am working as frontend developer with **React** ⚛️ My objetive for 
 
 ![774ebd39cf6673fa02200f53f19d2d2c](https://user-images.githubusercontent.com/59671227/149264140-85eeca0a-5c26-423b-bd80-9d4c55f7b638.gif)
 <center>
-
+![774ebd39cf6673fa02200f53f19d2d2c](https://user-images.githubusercontent.com/59671227/149264140-85eeca0a-5c26-423b-bd80-9d4c55f7b638.gif)
 <center/>
 
