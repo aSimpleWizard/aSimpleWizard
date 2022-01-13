@@ -15,8 +15,8 @@ Currenly am working as frontend developer with **React** ⚛️ My objetive for 
  
  <div align="center">
   <a href="https://github.com/jaime-hndz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-frontend&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-backend&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-frontend&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaime-hndz&repo=netbanking-app-backend&theme=github_dark"/>
 </div>
  
 
