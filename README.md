@@ -9,7 +9,7 @@ Currenly am working as frontend developer with **React** ⚛️ My objetive for 
 
 <div align="center">
   <a href="https://github.com/jaime-hndz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaime-hndz&hide=contribs,prs&theme=github_dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaime-hndz&theme=github_dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-hndz&layout=compact&theme=github_dark"/>
 </div>
  
