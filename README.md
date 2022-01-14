@@ -11,9 +11,9 @@ Currenly am working as frontend developer with **React** ⚛️ My objetive for 
   <a href="https://github.com/jaime-hndz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaime-hndz&theme=github_dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-hndz&layout=compact&theme=github_dark"/>
+  ![774ebd39cf6673fa02200f53f19d2d2c](https://user-images.githubusercontent.com/59671227/149264140-85eeca0a-5c26-423b-bd80-9d4c55f7b638.gif)
 </div>
  
   
-![774ebd39cf6673fa02200f53f19d2d2c](https://user-images.githubusercontent.com/59671227/149264140-85eeca0a-5c26-423b-bd80-9d4c55f7b638.gif)
 
 
