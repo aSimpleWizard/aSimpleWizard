@@ -5,7 +5,7 @@ My name is **Jaime Hernández**, I am a software developer 👨🏽‍💻 gradu
 
 I know the basics of **C++, C#, JavaScript, Php, Python,** among others. However, I have a lot to learn.
 
-I am currently working as a fullstack developer with **React** ⚛️y C#. My goal for now is to learn the **MERN** stack 🚀 
+I am currently working as a fullstack developer with **React** ⚛️ and C#. My goal for now is to learn the **MERN** stack 🚀 
 
 I am also interested in learning about machine learning🤖.
 <!-- 
