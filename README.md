@@ -1,11 +1,13 @@
 
-Hello, everyone 🌊
+Hello everyone 🌊
   
-My name is **Jaime Hernández**, am a software development student 👨🏽‍💻 in *Las Americas Institute of Technology* (Dominican republic).
+My name is **Jaime Hernández**, I am a software developer 👨🏽‍💻 graduated from *Instituto Tecnológico de Las Américas* (Dominican Republic).
 
-I know the basics of **C++, C#, JavaScript, Php, Python,** and others. Still, I have much to learn.
+I know the basics of **C++, C#, JavaScript, Php, Python,** among others. However, I have a lot to learn.
 
-Currenly am working as frontend developer with **React** ⚛️ My objetive for now is learning all about React and after introduce me to **MERN** stack 🚀 
+I am currently working as a fullstack developer with **React** ⚛️y C#. My goal for now is to learn the **MERN** stack 🚀 
+
+I am also interested in learning about machine learning🤖.
 <!-- 
 <div align="center">
   <a href="https://github.com/jaime-hndz">
